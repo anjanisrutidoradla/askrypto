@@ -1,5 +1,7 @@
 # CS 522 - Human Computer Interaction
 
+Link to hosted app - https://askrypto.netlify.app/
+
 ## Minimal Path to Awesome
 
 -Make sure Node and NPM are installed in the system.
